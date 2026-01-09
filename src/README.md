@@ -1,6 +1,4 @@
-# ERC20 Example
-
-**An example that uses the ERC20 interface's `balanceOf` method.**
+# Event processing
 
 ## Prerequisites
 
